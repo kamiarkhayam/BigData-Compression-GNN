@@ -1,6 +1,6 @@
 # Graph Neural Networks for Precision-Guaranteed Compression of Big Data
 
-This repository hosts the implementation of the research detailed in "Graph Neural Networks for Precision-Guaranteed Compression of Big Data," presented at IEEE Big Data Conference 2023. The study offers a novel approach utilizing Graph Neural Networks (GNNs) to efficiently manage large-scale data sets in smart infrastructures, ensuring precision in decompression.
+This repository hosts the implementation of the research detailed in "Graph Neural Networks for Precision-Guaranteed Compression of Big Data," presented at IEEE Big Data Conference 2024. The study offers a novel approach utilizing Graph Neural Networks (GNNs) to efficiently manage large-scale data sets in smart infrastructures, ensuring precision in decompression.
 
 ## Repository Structure
 
@@ -64,12 +64,5 @@ This repository hosts the implementation of the research detailed in "Graph Neur
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
 
 ## Citation
-
-```bibtex
-@inproceedings{khayambashi2024gnn,
-  title={Graph Neural Networks for Precision-Guaranteed Compression of Large-scale Spatial Data},
-  author={Kamiar Khayambashi and Negin Alemazkoor},
-  booktitle={IEEE Big Data Conference},
-  year={2024},
-  organization={IEEE}
-}
+If you use this code or the framework in your research, please cite our paper:
+Khayambashi, K., & Alemazkoor, N. (2024). Graph neural networks for precision-guaranteed compression of large-scale spatial data. In Proceedings of the IEEE Big Data Conference. IEEE.

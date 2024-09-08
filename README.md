@@ -15,7 +15,9 @@ This GitHub repository contains the source code and datasets utilized in the res
   - `data_generation/`: Scripts for generating training, validation, and test datasets in formats suitable for graph, CNN, and LSTM models.
 - `models/`: Houses class files and training scripts for the deep learning models utilized in the project.
 - `plotting/`: Scripts for visualization of data and results.
-  - `map_plotting/`: Scripts for generating spatial overview maps of datasets.
+  - `map_plotting/`: Scripts for generating spatial overview maps of datasets. 
+      The shape files are extracted from [United States Census Bureau. (2022). Cartographic Boundary Files - Shapefile. Available at https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html.] and [California Department of Transportation (Caltrans). (2022). State Highways. Available at https://gis.data.ca.gov/datasets/77f2d7ba94e040a78bfbe36feb6279da/exploreSummary.]
+  
   - `results_plotting/`: Scripts for plotting the results of data compression and model performance.
 - `compression/`: Contains Python scripts for data compression using DL models and traditional methods for three datasets, along with utility functions.
 

@@ -48,6 +48,9 @@ This GitHub repository contains the source code and datasets utilized in the res
 5. **Data Compression**
    - Utilize the trained models and prepared data to perform compression in the `compression` folder.
 
+6. **Visualization**
+   - Employ the scripts in the `plotting` folder for visualizing the results and spatial distribution of datasets.
+
 ## Requirements
 
 - Python 3.x
